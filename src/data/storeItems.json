@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "كتاب رقائق القران",
+        "price": 17.00,
+        "imgUrl": "/public/imgs/أنر قلبك برقائق القرآن.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "Airpods  ",
+        "price": 125.40,
+        "imgUrl": "/public/imgs/💥سماعه M10 👍اقوي سماعه في فئتها السعريه اللي….jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Kindle",
+        "price": 90.25,
+        "imgUrl": "/public/imgs/https___s_click.aliexpress.com_e__9fqynS"
+    },
+    {
+        "id": 4,
+        "title": " watch",
+        "price": 410.50,
+        "imgUrl": "/public/imgs/36 Insanely Good Gifts For Sister Birthday This Year.jpeg"
+    }
+]
